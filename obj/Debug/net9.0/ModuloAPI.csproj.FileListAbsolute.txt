@@ -29,3 +29,4 @@ D:\ModuloAPI\obj\Debug\net9.0\ref\ModuloAPI.dll
 D:\ModuloAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\ModuloAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\ModuloAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ModuloAPI\obj\Debug\net9.0\ModuloAPI.sourcelink.json
