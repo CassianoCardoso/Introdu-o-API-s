@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ModuloAPI\\ModuloAPI.csproj": {}
+    "d:\\ModuloAPI\\ModuloAPI.csproj": {}
   },
   "projects": {
-    "D:\\ModuloAPI\\ModuloAPI.csproj": {
+    "d:\\ModuloAPI\\ModuloAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ModuloAPI\\ModuloAPI.csproj",
+        "projectUniqueName": "d:\\ModuloAPI\\ModuloAPI.csproj",
         "projectName": "ModuloAPI",
-        "projectPath": "D:\\ModuloAPI\\ModuloAPI.csproj",
+        "projectPath": "d:\\ModuloAPI\\ModuloAPI.csproj",
         "packagesPath": "C:\\Users\\Cassiano\\.nuget\\packages\\",
-        "outputPath": "D:\\ModuloAPI\\obj\\",
+        "outputPath": "d:\\ModuloAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cassiano\\AppData\\Roaming\\NuGet\\NuGet.Config"
